@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Pipeline & scripts (비공개)
+pipeline/
+scripts/
+data/
+logs/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
